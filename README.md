@@ -1,2 +1,2 @@
 # Basic_login
-Login_formulary PHP/JS
+Basic Login Formulary in PHP/JS with MVC Architectural in PHP
